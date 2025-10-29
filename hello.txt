@@ -1,2 +1,5 @@
 Hello világ
 Hello bizony
+Ez egy teszt merge
+Második teszt
+
